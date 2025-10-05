@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MVP Summit 2024 - Photo Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>🏆 MVP Summit 2024</h1>
+        <p class="subtitle">A Collection of Memorable Moments</p>
+    </div>
+
+    <div class="gallery" id="gallery">
+        <!-- Gallery items will be loaded here -->
+    </div>
+
+    <div class="lightbox" id="lightbox">
+        <span class="close">&times;</span>
+        <span class="nav prev">&#10094;</span>
+        <span class="nav next">&#10095;</span>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="">
+            <video id="lightbox-video" controls>
+                <source src="" type="video/quicktime">
+                <source src="" type="video/mp4">
+            </video>
+        </div>
+        <div class="lightbox-caption"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
