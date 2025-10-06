@@ -1,6 +1,6 @@
-# MVP Summit 2024 Photo Gallery
+# MVP Summit 2025 Photo Gallery
 
-A beautiful, interactive photo gallery showcasing memories from the Microsoft MVP Summit 2024.
+A beautiful, interactive photo gallery showcasing memories from the Microsoft MVP Summit 2025.
 
 ## Features
 
@@ -24,4 +24,4 @@ Visit the live site: [Your GitHub Pages URL will be here]
 
 ---
 
-© 2024 MVP Summit Photo Gallery
+© 2025 MVP Summit Photo Gallery

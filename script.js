@@ -83,14 +83,14 @@ function renderGallery() {
                 </video>
                 <div class="video-badge">▶ Video</div>
                 <div class="overlay">
-                    <span class="item-name">MVP Summit 2024</span>
+                    <span class="item-name">MVP Summit 2025</span>
                 </div>
             `;
         } else {
             galleryItem.innerHTML = `
                 <img src="${item.path}" alt="${item.name}">
                 <div class="overlay">
-                    <span class="item-name">MVP Summit 2024</span>
+                    <span class="item-name">MVP Summit 2025</span>
                 </div>
             `;
         }
